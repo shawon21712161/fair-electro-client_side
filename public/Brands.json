@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "1",
+    "brand": "Apple",
+    "photo": "https://i.ibb.co/TYVJYrb/pngwing-com-4.png"
+  },
+  {
+    "_id": "2",
+    "brand": "Samsung",
+    "photo": "https://i.ibb.co/f9Bt4kf/pngwing-com-5.png"
+  },
+  {
+    "_id": "3",
+    "brand": "Xiaomi",
+    "photo": "https://i.ibb.co/txpyBtL/pngwing-com-6.png"
+  },
+  {
+    "_id": "4",
+    "brand": "Oppo",
+    "photo": "https://i.ibb.co/PGymGTZ/pngwing-com-1.png"
+  },
+  {
+    "_id": "5",
+    "brand": "Intel",
+    "photo": "https://i.ibb.co/VMZDH3L/pngwing-com-2.png"
+  },
+  {
+    "_id": "6",
+    "brand": "Microsoft",
+    "photo": "https://i.ibb.co/6rYp1sL/pngwing-com-3.png"
+  }
+]
